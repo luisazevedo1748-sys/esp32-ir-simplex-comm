@@ -15,7 +15,7 @@ The whole system runs on ESP32-S3 microcontrollers, written in C using the ESP-I
 * 5mm IR LED + NPN Transistor (Driver)
 * VS1838B IR Receiver
 * 16x2 I2C LCD Screen
-* Standard USB Keyboard (via USB OTG)
+* Standard USB Keyboard
 
 ## Technical Notes & Bug Fixes
 
